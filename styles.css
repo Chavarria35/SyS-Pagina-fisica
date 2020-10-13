@@ -1,0 +1,98 @@
+body{
+    background-color: #FFF9A4;
+}
+
+#seccion1{
+    width: 100%;
+    height: 145px;
+    background-color: #cc025d;
+}
+#banner{
+    text-align: center;
+    width: 547px;
+    margin: auto;
+
+    
+    
+}
+#banner h1{
+    padding-top: 18px;
+    text-shadow: 0px 0px 4px black;
+    font-size: 38px;
+    padding-top: 36px;
+    color: white;
+    
+}
+header p{
+    text-align: right;
+    font-weight: bold;
+   
+    
+    
+}
+.Info p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+#Intro{
+
+    font-size: 30px;
+}
+.Info{
+   
+    height: 253px;
+}
+.fuente{
+    font-size: 15px; 
+}
+
+.Info blockquote{
+    font-size: 21px;
+    color:blue
+}
+.cuadros{
+    overflow: hidden;
+    margin:20px;
+    margin-top: 30px;
+    width: 558px;
+    height: 470px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 10px black;
+    float: left;
+    margin-left: 37px;
+    padding:3px;
+}
+.cuadros img{
+    display: block;
+    margin:auto;
+    
+}
+.cuadros h3{
+    text-align: center;
+    font-size: 20px;
+}
+
+#nombres p{
+    color: white;
+}
+#ambas{
+    font-weight: bold;
+}
+.cuadros li{
+    font-size: 23px;
+}
+.cuadros p{
+    text-align: justify;
+}
+.cuadros img:hover{
+    transform: scale(1.2,1.2)
+}
+.cuadros:hover{
+   box-shadow:0px 0px 20px;
+
+}
+
+.cuadros ol li{
+    text-align: justify;
+}
